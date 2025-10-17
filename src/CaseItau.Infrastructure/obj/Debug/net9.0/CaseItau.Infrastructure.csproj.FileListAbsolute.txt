@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\bin\Debug\net9.0\CaseItau.Infrastructure.deps.json
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\bin\Debug\net9.0\CaseItau.Infrastructure.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\bin\Debug\net9.0\CaseItau.Infrastructure.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\bin\Debug\net9.0\CaseItau.Domain.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\bin\Debug\net9.0\CaseItau.Domain.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.A76FCE05.Up2Date
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\refint\CaseItau.Infrastructure.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\CaseItau.Infrastructure.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Infrastructure\obj\Debug\net9.0\ref\CaseItau.Infrastructure.dll

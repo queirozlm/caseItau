@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard de Reclamações | Case Itaú</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Case Itaú - Reclamações</a>
+    </div>
+  </nav>
+
+  <div class="sidebar">
+    <ul class="nav flex-column">
+      <li class="nav-item"><a id="tabRegistrar" class="nav-link active" href="#">Registrar Reclamação</a></li>
+      <li class="nav-item"><a id="tabHistorico" class="nav-link" href="#">Histórico</a></li>
+    </ul>
+  </div>
+
+  <div class="content">
+    <!-- Aba Registrar -->
+    <section id="abaRegistrar">
+      <h2>Nova Reclamação</h2>
+
+      <div class="row mb-3">
+        <div class="col-md-3">
+          <label class="form-label">CPF / ID do Cliente (opcional)</label>
+          <input id="cpfCliente" class="form-control" placeholder="Ex: 12345678900">
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Nome do Reclamante</label>
+          <input id="nomeReclamante" class="form-control" placeholder="Ex: João da Silva">
+        </div>
+        <div class="col-md-5">
+          <label class="form-label">Contato</label>
+          <input id="contatoReclamante" class="form-control" placeholder="Ex: joao@email.com / (11) 99999-9999">
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Descrição da Reclamação</label>
+        <textarea id="reclamacao" class="form-control" rows="4" placeholder="Descreva o problema..."></textarea>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Anexos (documentos, prints, etc.)</label>
+        <input id="anexos" class="form-control" type="file" multiple>
+      </div>
+
+      <button id="btnEnviar" class="btn btn-primary mb-4">Enviar Reclamação</button>
+      <div id="resultado"></div>
+    </section>
+
+    <!-- Aba Histórico -->
+    <section id="abaHistorico" class="hidden">
+      <h2>Histórico de Reclamações</h2>
+      <div id="historicoContainer"></div>
+    </section>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+@CaseItau.Api_HostAddress = http://localhost:5188
+
+GET {{CaseItau.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

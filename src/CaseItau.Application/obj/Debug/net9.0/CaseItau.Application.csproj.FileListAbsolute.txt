@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\bin\Debug\net9.0\CaseItau.Application.deps.json
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\bin\Debug\net9.0\CaseItau.Application.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\bin\Debug\net9.0\CaseItau.Application.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\bin\Debug\net9.0\CaseItau.Domain.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\bin\Debug\net9.0\CaseItau.Domain.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.FF296F6C.Up2Date
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\refint\CaseItau.Application.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\CaseItau.Application.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Application\obj\Debug\net9.0\ref\CaseItau.Application.dll

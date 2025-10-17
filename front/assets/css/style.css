@@ -1,0 +1,35 @@
+body {
+  padding-top: 3.5rem;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 3.5rem;
+  left: 0;
+  width: 240px;
+  padding-top: 1rem;
+  background-color: #f8f9fa;
+  border-right: 1px solid #dee2e6;
+}
+
+.content {
+  margin-left: 260px;
+  padding: 1rem;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.hidden {
+  display: none;
+}
+
+.category-header {
+  background-color: #e9ecef;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 4px;
+}

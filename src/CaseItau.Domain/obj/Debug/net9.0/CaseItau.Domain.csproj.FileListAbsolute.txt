@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\bin\Debug\net9.0\CaseItau.Domain.deps.json
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\bin\Debug\net9.0\CaseItau.Domain.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\bin\Debug\net9.0\CaseItau.Domain.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\refint\CaseItau.Domain.dll
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\CaseItau.Domain.pdb
+C:\Users\lucas\Desktop\CaseItau\src\CaseItau.Domain\obj\Debug\net9.0\ref\CaseItau.Domain.dll

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\CaseItau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\controllers\\datameshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\controllers\\datameshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C73094-1940-442D-935C-00B54F39B8B6}|tests\\CaseItau.Tests\\CaseItau.Tests.csproj|c:\\users\\lucas\\desktop\\caseitau\\tests\\caseitau.tests\\keywordclassifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C73094-1940-442D-935C-00B54F39B8B6}|tests\\CaseItau.Tests\\CaseItau.Tests.csproj|solutionrelative:tests\\caseitau.tests\\keywordclassifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5252790-988D-41C4-BCCF-CDE5CBDC2C78}|src\\CaseItau.Infrastructure\\CaseItau.Infrastructure.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.infrastructure\\classification\\keywordclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5252790-988D-41C4-BCCF-CDE5CBDC2C78}|src\\CaseItau.Infrastructure\\CaseItau.Infrastructure.csproj|solutionrelative:src\\caseitau.infrastructure\\classification\\keywordclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\caseitau.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\caseitau.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\controllers\\classificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\controllers\\classificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2145BC56-D68F-4558-8E1D-A1D9CE946081}|src\\CaseItau.Domain\\CaseItau.Domain.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.domain\\interfaces\\icategoryclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2145BC56-D68F-4558-8E1D-A1D9CE946081}|src\\CaseItau.Domain\\CaseItau.Domain.csproj|solutionrelative:src\\caseitau.domain\\interfaces\\icategoryclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|c:\\users\\lucas\\desktop\\caseitau\\src\\caseitau.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76B35CBB-C75A-4041-8DAA-61F124D90C81}|src\\CaseItau.Api\\CaseItau.Api.csproj|solutionrelative:src\\caseitau.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataMeshController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Controllers\\DataMeshController.cs",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\Controllers\\DataMeshController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Controllers\\DataMeshController.cs",
+              "RelativeToolTip": "src\\CaseItau.Api\\Controllers\\DataMeshController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:21:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\CaseItau.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T01:22:29.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaseItau.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\CaseItau.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\CaseItau.Api.csproj",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\CaseItau.Api.csproj",
+              "RelativeToolTip": "src\\CaseItau.Api\\CaseItau.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T00:05:07.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\appsettings.json",
+              "RelativeToolTip": "src\\CaseItau.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T00:03:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Program.cs",
+              "RelativeToolTip": "src\\CaseItau.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:00:28.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassificationController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Controllers\\ClassificationController.cs",
+              "RelativeDocumentMoniker": "src\\CaseItau.Api\\Controllers\\ClassificationController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Api\\Controllers\\ClassificationController.cs",
+              "RelativeToolTip": "src\\CaseItau.Api\\Controllers\\ClassificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:59:47.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeywordClassifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\tests\\CaseItau.Tests\\KeywordClassifierTests.cs",
+              "RelativeDocumentMoniker": "tests\\CaseItau.Tests\\KeywordClassifierTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\tests\\CaseItau.Tests\\KeywordClassifierTests.cs",
+              "RelativeToolTip": "tests\\CaseItau.Tests\\KeywordClassifierTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:53:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeywordClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Infrastructure\\Classification\\KeywordClassifier.cs",
+              "RelativeDocumentMoniker": "src\\CaseItau.Infrastructure\\Classification\\KeywordClassifier.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Infrastructure\\Classification\\KeywordClassifier.cs",
+              "RelativeToolTip": "src\\CaseItau.Infrastructure\\Classification\\KeywordClassifier.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:52:35.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Domain\\Interfaces\\ICategoryClassifier.cs",
+              "RelativeDocumentMoniker": "src\\CaseItau.Domain\\Interfaces\\ICategoryClassifier.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\CaseItau\\src\\CaseItau.Domain\\Interfaces\\ICategoryClassifier.cs",
+              "RelativeToolTip": "src\\CaseItau.Domain\\Interfaces\\ICategoryClassifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:50:55.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
