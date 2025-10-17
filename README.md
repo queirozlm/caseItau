@@ -1,5 +1,5 @@
 
-# 🏦 Case Itaú — Classificação Automática de Reclamações
+# 🏦 Classificação Automática de Reclamações
 
 ## 📘 Visão Geral
 
@@ -198,4 +198,4 @@ front/CaseItau.Front/index.html
 
 📅 **Apresentação:** Outubro / 2025  
 💼 **Autor:** Lucas Queiroz  
-💻 **Instituição:** Itaú Unibanco — Case Técnico
+💻 **Instituição:** Case Técnico
